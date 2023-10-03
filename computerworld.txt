@@ -1,2 +1,4 @@
+We can write directly from bash terminal and publish to GITHUB using push command
+GITHUB is best to control versions, share and update codes
 The album deals with the theme of the rise of computers within society
 The track "computer Love" was released as a seven-inch single in the UK, in July 1981, backed with "The Modal", from the group's previous album "The Man-machine"
