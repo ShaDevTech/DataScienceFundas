@@ -1,0 +1,363 @@
+﻿Region,WorkType,Year,Measure
+East North Central,Private,2024,13766121
+East North Central,Private,2023,66559975
+East North Central,Private,2022,69416687
+East North Central,Private,2021,54285015
+East North Central,Private,2020,47527864
+East North Central,Private,2019,50812221
+East North Central,Private,2018,50829194
+East North Central,Private,2017,46127999
+East North Central,Private,2016,48485432
+East North Central,Private,2015,40174474
+East North Central,Municipal,2017,9000
+East North Central,County,2024,3241144
+East North Central,County,2023,12307969
+East North Central,County,2022,11067461
+East North Central,County,2021,8590581
+East North Central,County,2020,7852605
+East North Central,County,2019,10839787
+East North Central,County,2018,7548745
+East North Central,County,2017,7326046
+East North Central,County,2016,5017567
+East North Central,County,2015,6506855
+East North Central,State,2024,264362
+East North Central,State,2023,3510429
+East North Central,State,2022,2082281
+East North Central,State,2021,3975674
+East North Central,State,2020,2473549
+East North Central,State,2019,2245187
+East North Central,State,2018,2784646
+East North Central,State,2017,1925980
+East North Central,State,2016,2324410
+East North Central,State,2015,1759672
+East North Central,Federal,2024,30969
+East North Central,Federal,2023,1035523
+East North Central,Federal,2022,580158
+East North Central,Federal,2021,638213
+East North Central,Federal,2020,660174
+East North Central,Federal,2019,429113
+East North Central,Federal,2018,423279
+East North Central,Federal,2017,495556
+East North Central,Federal,2016,386080
+East North Central,Federal,2015,261787
+East South Central,Private,2024,10637281
+East South Central,Private,2023,35466086
+East South Central,Private,2022,43870209
+East South Central,Private,2021,33641512
+East South Central,Private,2020,28376824
+East South Central,Private,2019,29417607
+East South Central,Private,2018,26845501
+East South Central,Private,2017,23617620
+East South Central,Private,2016,22824386
+East South Central,Private,2015,19758538
+East South Central,County,2024,1166259
+East South Central,County,2023,4654749
+East South Central,County,2022,3645440
+East South Central,County,2021,3212848
+East South Central,County,2020,3119373
+East South Central,County,2019,3417806
+East South Central,County,2018,3400792
+East South Central,County,2017,1957087
+East South Central,County,2016,2428434
+East South Central,County,2015,2229407
+East South Central,State,2024,647941
+East South Central,State,2023,2743873
+East South Central,State,2022,1608131
+East South Central,State,2021,988887
+East South Central,State,2020,1240903
+East South Central,State,2019,970384
+East South Central,State,2018,1382687
+East South Central,State,2017,1059118
+East South Central,State,2016,1547766
+East South Central,State,2015,1434223
+East South Central,Federal,2024,21627
+East South Central,Federal,2023,658098
+East South Central,Federal,2022,382290
+East South Central,Federal,2021,1437849
+East South Central,Federal,2020,390547
+East South Central,Federal,2019,492568
+East South Central,Federal,2018,6903995
+East South Central,Federal,2017,307416
+East South Central,Federal,2016,297758
+East South Central,Federal,2015,260641
+Middle Atlantic,Private,2024,12348702
+Middle Atlantic,Private,2023,58999135
+Middle Atlantic,Private,2022,80035004
+Middle Atlantic,Private,2021,58297159
+Middle Atlantic,Private,2020,48650106
+Middle Atlantic,Private,2019,56993268
+Middle Atlantic,Private,2018,56623067
+Middle Atlantic,Private,2017,64841269
+Middle Atlantic,Private,2016,52432352
+Middle Atlantic,Private,2015,57854834
+Middle Atlantic,Municipal,2017,30000
+Middle Atlantic,County,2024,2069324
+Middle Atlantic,County,2023,10632732
+Middle Atlantic,County,2022,11665752
+Middle Atlantic,County,2021,9571325
+Middle Atlantic,County,2020,6719430
+Middle Atlantic,County,2019,9235900
+Middle Atlantic,County,2018,8373122
+Middle Atlantic,County,2017,7030431
+Middle Atlantic,County,2016,7207986
+Middle Atlantic,County,2015,6410654
+Middle Atlantic,State,2024,862585
+Middle Atlantic,State,2023,2371986
+Middle Atlantic,State,2022,2290179
+Middle Atlantic,State,2021,1787353
+Middle Atlantic,State,2020,2108829
+Middle Atlantic,State,2019,2365095
+Middle Atlantic,State,2018,3201794
+Middle Atlantic,State,2017,6082781
+Middle Atlantic,State,2016,2356846
+Middle Atlantic,State,2015,1831790
+Middle Atlantic,Federal,2024,20651
+Middle Atlantic,Federal,2023,424764
+Middle Atlantic,Federal,2022,582948
+Middle Atlantic,Federal,2021,769551
+Middle Atlantic,Federal,2020,847961
+Middle Atlantic,Federal,2019,711191
+Middle Atlantic,Federal,2018,533298
+Middle Atlantic,Federal,2017,470309
+Middle Atlantic,Federal,2016,519303
+Middle Atlantic,Federal,2015,415091
+New England,Private,2024,4645724
+New England,Private,2023,22607734
+New England,Private,2022,24418654
+New England,Private,2021,21591034
+New England,Private,2020,17681179
+New England,Private,2019,21262699
+New England,Private,2018,22168842
+New England,Private,2017,18878357
+New England,Private,2016,20443110
+New England,Private,2015,15755845
+New England,County,2024,953548
+New England,County,2023,5464344
+New England,County,2022,4047779
+New England,County,2021,3760221
+New England,County,2020,3842939
+New England,County,2019,4238891
+New England,County,2018,2673067
+New England,County,2017,2996485
+New England,County,2016,2097493
+New England,County,2015,2106988
+New England,State,2024,389865
+New England,State,2023,1789200
+New England,State,2022,914479
+New England,State,2021,741865
+New England,State,2020,1078507
+New England,State,2019,1715472
+New England,State,2018,927352
+New England,State,2017,1581509
+New England,State,2016,860926
+New England,State,2015,1602789
+New England,Federal,2024,27054
+New England,Federal,2023,374314
+New England,Federal,2022,445344
+New England,Federal,2021,212515
+New England,Federal,2020,224996
+New England,Federal,2019,330777
+New England,Federal,2018,299948
+New England,Federal,2017,224235
+New England,Federal,2016,159379
+New England,Federal,2015,286026
+Pacific Northwest,Private,2024,6503725
+Pacific Northwest,Private,2023,34412388
+Pacific Northwest,Private,2022,32121558
+Pacific Northwest,Private,2021,33933332
+Pacific Northwest,Private,2020,26416413
+Pacific Northwest,Private,2019,30740584
+Pacific Northwest,Private,2018,29546366
+Pacific Northwest,Private,2017,29050276
+Pacific Northwest,Private,2016,26474497
+Pacific Northwest,Private,2015,22986894
+Pacific Northwest,County,2024,802807
+Pacific Northwest,County,2023,4352818
+Pacific Northwest,County,2022,5165792
+Pacific Northwest,County,2021,4407378
+Pacific Northwest,County,2020,5813866
+Pacific Northwest,County,2019,5443703
+Pacific Northwest,County,2018,5823633
+Pacific Northwest,County,2017,4748910
+Pacific Northwest,County,2016,3361209
+Pacific Northwest,County,2015,3606106
+Pacific Northwest,State,2024,318952
+Pacific Northwest,State,2023,1890598
+Pacific Northwest,State,2022,1477360
+Pacific Northwest,State,2021,1210931
+Pacific Northwest,State,2020,1370792
+Pacific Northwest,State,2019,1296688
+Pacific Northwest,State,2018,2366909
+Pacific Northwest,State,2017,1050178
+Pacific Northwest,State,2016,2270612
+Pacific Northwest,State,2015,1104781
+Pacific Northwest,Federal,2024,355867
+Pacific Northwest,Federal,2023,661964
+Pacific Northwest,Federal,2022,331590
+Pacific Northwest,Federal,2021,380335
+Pacific Northwest,Federal,2020,514616
+Pacific Northwest,Federal,2019,371952
+Pacific Northwest,Federal,2018,742272
+Pacific Northwest,Federal,2017,606561
+Pacific Northwest,Federal,2016,432301
+Pacific Northwest,Federal,2015,692803
+Pacific Southwest,Private,2024,33240388
+Pacific Southwest,Private,2023,102744058
+Pacific Southwest,Private,2022,141023396
+Pacific Southwest,Private,2021,121509730
+Pacific Southwest,Private,2020,95372507
+Pacific Southwest,Private,2019,88291925
+Pacific Southwest,Private,2018,94140771
+Pacific Southwest,Private,2017,91117105
+Pacific Southwest,Private,2016,89239996
+Pacific Southwest,Private,2015,72174154
+Pacific Southwest,County,2024,4884586
+Pacific Southwest,County,2023,17682290
+Pacific Southwest,County,2022,13209182
+Pacific Southwest,County,2021,17232081
+Pacific Southwest,County,2020,15426014
+Pacific Southwest,County,2019,16396234
+Pacific Southwest,County,2018,16334765
+Pacific Southwest,County,2017,11970584
+Pacific Southwest,County,2016,10444481
+Pacific Southwest,County,2015,8143081
+Pacific Southwest,State,2024,1570830
+Pacific Southwest,State,2023,5487398
+Pacific Southwest,State,2022,5563284
+Pacific Southwest,State,2021,3696401
+Pacific Southwest,State,2020,5502495
+Pacific Southwest,State,2019,4416941
+Pacific Southwest,State,2018,5879578
+Pacific Southwest,State,2017,4774840
+Pacific Southwest,State,2016,4214069
+Pacific Southwest,State,2015,2345005
+Pacific Southwest,Federal,2024,268041
+Pacific Southwest,Federal,2023,1682496
+Pacific Southwest,Federal,2022,1379290
+Pacific Southwest,Federal,2021,2526796
+Pacific Southwest,Federal,2020,1606044
+Pacific Southwest,Federal,2019,2124335
+Pacific Southwest,Federal,2018,1542299
+Pacific Southwest,Federal,2017,1553186
+Pacific Southwest,Federal,2016,1578138
+Pacific Southwest,Federal,2015,1214347
+South Atlantic,Private,2024,43446420
+South Atlantic,Private,2023,185677069
+South Atlantic,Private,2022,181493005
+South Atlantic,Private,2021,164605508
+South Atlantic,Private,2020,133868557
+South Atlantic,Private,2019,135835912
+South Atlantic,Private,2018,127301759
+South Atlantic,Private,2017,120925168
+South Atlantic,Private,2016,111236420
+South Atlantic,Private,2015,94965068
+South Atlantic,County,2024,4002603
+South Atlantic,County,2023,20649677
+South Atlantic,County,2022,14437887
+South Atlantic,County,2021,10841543
+South Atlantic,County,2020,11326768
+South Atlantic,County,2019,11537271
+South Atlantic,County,2018,11820744
+South Atlantic,County,2017,11013452
+South Atlantic,County,2016,10202043
+South Atlantic,County,2015,8290180
+South Atlantic,State,2024,1297468
+South Atlantic,State,2023,4491505
+South Atlantic,State,2022,3999004
+South Atlantic,State,2021,3126767
+South Atlantic,State,2020,2971008
+South Atlantic,State,2019,3888959
+South Atlantic,State,2018,3440151
+South Atlantic,State,2017,3192670
+South Atlantic,State,2016,3112273
+South Atlantic,State,2015,2641901
+South Atlantic,Federal,2024,452099
+South Atlantic,Federal,2023,4074058
+South Atlantic,Federal,2022,3564204
+South Atlantic,Federal,2021,4364602
+South Atlantic,Federal,2020,3058153
+South Atlantic,Federal,2019,3927674
+South Atlantic,Federal,2018,2993683
+South Atlantic,Federal,2017,3064222
+South Atlantic,Federal,2016,2338583
+South Atlantic,Federal,2015,2155323
+West North Central,Private,2024,7207216
+West North Central,Private,2023,38424108
+West North Central,Private,2022,38701806
+West North Central,Private,2021,39486428
+West North Central,Private,2020,30790278
+West North Central,Private,2019,31485981
+West North Central,Private,2018,33012790
+West North Central,Private,2017,32301107
+West North Central,Private,2016,29304088
+West North Central,Private,2015,27676742
+West North Central,County,2024,1663224
+West North Central,County,2023,6081359
+West North Central,County,2022,6107437
+West North Central,County,2021,5440951
+West North Central,County,2020,5751540
+West North Central,County,2019,7139918
+West North Central,County,2018,5041451
+West North Central,County,2017,4705557
+West North Central,County,2016,4502266
+West North Central,County,2015,4941679
+West North Central,State,2024,235953
+West North Central,State,2023,2006123
+West North Central,State,2022,1444928
+West North Central,State,2021,1339931
+West North Central,State,2020,927370
+West North Central,State,2019,930778
+West North Central,State,2018,1175700
+West North Central,State,2017,690528
+West North Central,State,2016,1040870
+West North Central,State,2015,1163324
+West North Central,Federal,2024,938620
+West North Central,Federal,2023,1753404
+West North Central,Federal,2022,750410
+West North Central,Federal,2021,491405
+West North Central,Federal,2020,790608
+West North Central,Federal,2019,1182342
+West North Central,Federal,2018,452230
+West North Central,Federal,2017,277181
+West North Central,Federal,2016,377468
+West North Central,Federal,2015,1418877
+West South Central,Private,2024,29151402
+West South Central,Private,2023,98427324
+West South Central,Private,2022,137170893
+West South Central,Private,2021,99633495
+West South Central,Private,2020,82839452
+West South Central,Private,2019,90234705
+West South Central,Private,2018,77706319
+West South Central,Private,2017,72984366
+West South Central,Private,2016,71383626
+West South Central,Private,2015,77012878
+West South Central,County,2024,4973477
+West South Central,County,2023,15938744
+West South Central,County,2022,13642884
+West South Central,County,2021,10681241
+West South Central,County,2020,11479178
+West South Central,County,2019,12301817
+West South Central,County,2018,11003529
+West South Central,County,2017,10490037
+West South Central,County,2016,10018770
+West South Central,County,2015,7777382
+West South Central,State,2024,1278991
+West South Central,State,2023,4105283
+West South Central,State,2022,2139344
+West South Central,State,2021,2444751
+West South Central,State,2020,3216132
+West South Central,State,2019,3021287
+West South Central,State,2018,2030353
+West South Central,State,2017,3844457
+West South Central,State,2016,1828952
+West South Central,State,2015,2400948
+West South Central,Federal,2024,154724
+West South Central,Federal,2023,1147785
+West South Central,Federal,2022,773531
+West South Central,Federal,2021,698514
+West South Central,Federal,2020,555022
+West South Central,Federal,2019,1365231
+West South Central,Federal,2018,566147
+West South Central,Federal,2017,567596
+West South Central,Federal,2016,1000904
+West South Central,Federal,2015,578291

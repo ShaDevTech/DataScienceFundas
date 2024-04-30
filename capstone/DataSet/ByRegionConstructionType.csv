@@ -1,0 +1,361 @@
+﻿Region,ConstructionType,Year,Measure
+East North Central,New Construction,2024,13125524
+East North Central,New Construction,2023,59012411
+East North Central,New Construction,2022,64536105
+East North Central,New Construction,2021,53397630
+East North Central,New Construction,2020,44965012
+East North Central,New Construction,2019,46849714
+East North Central,New Construction,2018,47104098
+East North Central,New Construction,2017,42068992
+East North Central,New Construction,2016,42262033
+East North Central,New Construction,2015,36055878
+East North Central,Major Addition,2024,777355
+East North Central,Major Addition,2023,3126457
+East North Central,Major Addition,2022,1826887
+East North Central,Major Addition,2021,820462
+East North Central,Major Addition,2020,777793
+East North Central,Major Addition,2019,994119
+East North Central,Major Addition,2018,1076350
+East North Central,Major Addition,2017,1284130
+East North Central,Major Addition,2016,1304958
+East North Central,Major Addition,2015,1416324
+East North Central,Add and Alteration,2024,1171762
+East North Central,Add and Alteration,2023,7660122
+East North Central,Add and Alteration,2022,6304624
+East North Central,Add and Alteration,2021,4735328
+East North Central,Add and Alteration,2020,4065383
+East North Central,Add and Alteration,2019,6539526
+East North Central,Add and Alteration,2018,4377000
+East North Central,Add and Alteration,2017,3713762
+East North Central,Add and Alteration,2016,3341853
+East North Central,Add and Alteration,2015,3310769
+East North Central,Major Alteration,2024,2227955
+East North Central,Major Alteration,2023,13614906
+East North Central,Major Alteration,2022,10478971
+East North Central,Major Alteration,2021,8536063
+East North Central,Major Alteration,2020,8706004
+East North Central,Major Alteration,2019,9942949
+East North Central,Major Alteration,2018,9028416
+East North Central,Major Alteration,2017,8817697
+East North Central,Major Alteration,2016,9304645
+East North Central,Major Alteration,2015,7919817
+East South Central,New Construction,2024,10452061
+East South Central,New Construction,2023,35979022
+East South Central,New Construction,2022,42310059
+East South Central,New Construction,2021,33982774
+East South Central,New Construction,2020,27877984
+East South Central,New Construction,2019,29005050
+East South Central,New Construction,2018,32763256
+East South Central,New Construction,2017,22977692
+East South Central,New Construction,2016,22400535
+East South Central,New Construction,2015,19572297
+East South Central,Major Addition,2024,299467
+East South Central,Major Addition,2023,1446594
+East South Central,Major Addition,2022,1105296
+East South Central,Major Addition,2021,455479
+East South Central,Major Addition,2020,359370
+East South Central,Major Addition,2019,756500
+East South Central,Major Addition,2018,687482
+East South Central,Major Addition,2017,562305
+East South Central,Major Addition,2016,554797
+East South Central,Major Addition,2015,775144
+East South Central,Add and Alteration,2024,300451
+East South Central,Add and Alteration,2023,1045349
+East South Central,Add and Alteration,2022,1809995
+East South Central,Add and Alteration,2021,1433866
+East South Central,Add and Alteration,2020,1115616
+East South Central,Add and Alteration,2019,974305
+East South Central,Add and Alteration,2018,1888275
+East South Central,Add and Alteration,2017,873723
+East South Central,Add and Alteration,2016,1334848
+East South Central,Add and Alteration,2015,834203
+East South Central,Major Alteration,2024,1421129
+East South Central,Major Alteration,2023,5051841
+East South Central,Major Alteration,2022,4280720
+East South Central,Major Alteration,2021,3408977
+East South Central,Major Alteration,2020,3774677
+East South Central,Major Alteration,2019,3562510
+East South Central,Major Alteration,2018,3193962
+East South Central,Major Alteration,2017,2527521
+East South Central,Major Alteration,2016,2808164
+East South Central,Major Alteration,2015,2501165
+Middle Atlantic,New Construction,2024,10152341
+Middle Atlantic,New Construction,2023,50192015
+Middle Atlantic,New Construction,2022,70789901
+Middle Atlantic,New Construction,2021,49837975
+Middle Atlantic,New Construction,2020,40602856
+Middle Atlantic,New Construction,2019,47452162
+Middle Atlantic,New Construction,2018,48199987
+Middle Atlantic,New Construction,2017,57630243
+Middle Atlantic,New Construction,2016,42486262
+Middle Atlantic,New Construction,2015,47063526
+Middle Atlantic,Major Addition,2024,322253
+Middle Atlantic,Major Addition,2023,1297943
+Middle Atlantic,Major Addition,2022,1014911
+Middle Atlantic,Major Addition,2021,885554
+Middle Atlantic,Major Addition,2020,833069
+Middle Atlantic,Major Addition,2019,1059047
+Middle Atlantic,Major Addition,2018,1062358
+Middle Atlantic,Major Addition,2017,1024137
+Middle Atlantic,Major Addition,2016,851733
+Middle Atlantic,Major Addition,2015,1088509
+Middle Atlantic,Add and Alteration,2024,432800
+Middle Atlantic,Add and Alteration,2023,3110190
+Middle Atlantic,Add and Alteration,2022,5453010
+Middle Atlantic,Add and Alteration,2021,4747613
+Middle Atlantic,Add and Alteration,2020,4474531
+Middle Atlantic,Add and Alteration,2019,2980693
+Middle Atlantic,Add and Alteration,2018,3721674
+Middle Atlantic,Add and Alteration,2017,5130222
+Middle Atlantic,Add and Alteration,2016,3388136
+Middle Atlantic,Add and Alteration,2015,4029776
+Middle Atlantic,Major Alteration,2024,4393868
+Middle Atlantic,Major Alteration,2023,17828469
+Middle Atlantic,Major Alteration,2022,17316061
+Middle Atlantic,Major Alteration,2021,14954246
+Middle Atlantic,Major Alteration,2020,12415870
+Middle Atlantic,Major Alteration,2019,17813552
+Middle Atlantic,Major Alteration,2018,15747262
+Middle Atlantic,Major Alteration,2017,14670188
+Middle Atlantic,Major Alteration,2016,15790356
+Middle Atlantic,Major Alteration,2015,14330558
+New England,New Construction,2024,4393142
+New England,New Construction,2023,21687349
+New England,New Construction,2022,23241115
+New England,New Construction,2021,19440194
+New England,New Construction,2020,16459258
+New England,New Construction,2019,19292255
+New England,New Construction,2018,18524572
+New England,New Construction,2017,16821482
+New England,New Construction,2016,17825592
+New England,New Construction,2015,14415949
+New England,Major Addition,2024,199695
+New England,Major Addition,2023,374462
+New England,Major Addition,2022,300647
+New England,Major Addition,2021,158403
+New England,Major Addition,2020,442145
+New England,Major Addition,2019,201870
+New England,Major Addition,2018,297175
+New England,Major Addition,2017,285183
+New England,Major Addition,2016,389558
+New England,Major Addition,2015,292473
+New England,Add and Alteration,2024,236601
+New England,Add and Alteration,2023,2050038
+New England,Add and Alteration,2022,1288458
+New England,Add and Alteration,2021,1531786
+New England,Add and Alteration,2020,1394375
+New England,Add and Alteration,2019,2652574
+New England,Add and Alteration,2018,2062353
+New England,Add and Alteration,2017,1867344
+New England,Add and Alteration,2016,1599622
+New England,Add and Alteration,2015,1174508
+New England,Major Alteration,2024,1186753
+New England,Major Alteration,2023,6123743
+New England,Major Alteration,2022,4996036
+New England,Major Alteration,2021,5175252
+New England,Major Alteration,2020,4531843
+New England,Major Alteration,2019,5401140
+New England,Major Alteration,2018,5185109
+New England,Major Alteration,2017,4706577
+New England,Major Alteration,2016,3746136
+New England,Major Alteration,2015,3868718
+Pacific Northwest,New Construction,2024,6409518
+Pacific Northwest,New Construction,2023,35179707
+Pacific Northwest,New Construction,2022,30531447
+Pacific Northwest,New Construction,2021,33928926
+Pacific Northwest,New Construction,2020,27579963
+Pacific Northwest,New Construction,2019,30332733
+Pacific Northwest,New Construction,2018,31786147
+Pacific Northwest,New Construction,2017,29143332
+Pacific Northwest,New Construction,2016,26627496
+Pacific Northwest,New Construction,2015,23504098
+Pacific Northwest,Major Addition,2024,183894
+Pacific Northwest,Major Addition,2023,366894
+Pacific Northwest,Major Addition,2022,737306
+Pacific Northwest,Major Addition,2021,268974
+Pacific Northwest,Major Addition,2020,290072
+Pacific Northwest,Major Addition,2019,1668342
+Pacific Northwest,Major Addition,2018,1205462
+Pacific Northwest,Major Addition,2017,443280
+Pacific Northwest,Major Addition,2016,159583
+Pacific Northwest,Major Addition,2015,394716
+Pacific Northwest,Add and Alteration,2024,308340
+Pacific Northwest,Add and Alteration,2023,1205257
+Pacific Northwest,Add and Alteration,2022,2751000
+Pacific Northwest,Add and Alteration,2021,1262968
+Pacific Northwest,Add and Alteration,2020,2575683
+Pacific Northwest,Add and Alteration,2019,2557094
+Pacific Northwest,Add and Alteration,2018,1942253
+Pacific Northwest,Add and Alteration,2017,1549467
+Pacific Northwest,Add and Alteration,2016,1867313
+Pacific Northwest,Add and Alteration,2015,1286315
+Pacific Northwest,Major Alteration,2024,1079599
+Pacific Northwest,Major Alteration,2023,4565910
+Pacific Northwest,Major Alteration,2022,5076547
+Pacific Northwest,Major Alteration,2021,4471108
+Pacific Northwest,Major Alteration,2020,3669969
+Pacific Northwest,Major Alteration,2019,3294758
+Pacific Northwest,Major Alteration,2018,3545318
+Pacific Northwest,Major Alteration,2017,4319846
+Pacific Northwest,Major Alteration,2016,3884227
+Pacific Northwest,Major Alteration,2015,3205455
+Pacific Southwest,New Construction,2024,29816940
+Pacific Southwest,New Construction,2023,105873278
+Pacific Southwest,New Construction,2022,139790156
+Pacific Southwest,New Construction,2021,128640034
+Pacific Southwest,New Construction,2020,101040551
+Pacific Southwest,New Construction,2019,95800829
+Pacific Southwest,New Construction,2018,101925638
+Pacific Southwest,New Construction,2017,91443810
+Pacific Southwest,New Construction,2016,88089927
+Pacific Southwest,New Construction,2015,70135441
+Pacific Southwest,Major Addition,2024,5956327
+Pacific Southwest,Major Addition,2023,2915394
+Pacific Southwest,Major Addition,2022,1048659
+Pacific Southwest,Major Addition,2021,747187
+Pacific Southwest,Major Addition,2020,998270
+Pacific Southwest,Major Addition,2019,543321
+Pacific Southwest,Major Addition,2018,841987
+Pacific Southwest,Major Addition,2017,1508459
+Pacific Southwest,Major Addition,2016,1297873
+Pacific Southwest,Major Addition,2015,953488
+Pacific Southwest,Add and Alteration,2024,456173
+Pacific Southwest,Add and Alteration,2023,3704330
+Pacific Southwest,Add and Alteration,2022,5199211
+Pacific Southwest,Add and Alteration,2021,2458613
+Pacific Southwest,Add and Alteration,2020,3949105
+Pacific Southwest,Add and Alteration,2019,2976058
+Pacific Southwest,Add and Alteration,2018,4204718
+Pacific Southwest,Add and Alteration,2017,1949101
+Pacific Southwest,Add and Alteration,2016,2331153
+Pacific Southwest,Add and Alteration,2015,2957205
+Pacific Southwest,Major Alteration,2024,3734405
+Pacific Southwest,Major Alteration,2023,15103240
+Pacific Southwest,Major Alteration,2022,15137126
+Pacific Southwest,Major Alteration,2021,13119174
+Pacific Southwest,Major Alteration,2020,11919134
+Pacific Southwest,Major Alteration,2019,11909227
+Pacific Southwest,Major Alteration,2018,10925070
+Pacific Southwest,Major Alteration,2017,14514345
+Pacific Southwest,Major Alteration,2016,13757731
+Pacific Southwest,Major Alteration,2015,9830453
+South Atlantic,New Construction,2024,42224123
+South Atlantic,New Construction,2023,186150644
+South Atlantic,New Construction,2022,176637515
+South Atlantic,New Construction,2021,163091253
+South Atlantic,New Construction,2020,132705817
+South Atlantic,New Construction,2019,134000178
+South Atlantic,New Construction,2018,125667653
+South Atlantic,New Construction,2017,119512459
+South Atlantic,New Construction,2016,108482791
+South Atlantic,New Construction,2015,93095938
+South Atlantic,Major Addition,2024,573418
+South Atlantic,Major Addition,2023,2872301
+South Atlantic,Major Addition,2022,2472780
+South Atlantic,Major Addition,2021,1850233
+South Atlantic,Major Addition,2020,1121418
+South Atlantic,Major Addition,2019,2033116
+South Atlantic,Major Addition,2018,1959354
+South Atlantic,Major Addition,2017,1971066
+South Atlantic,Major Addition,2016,1911589
+South Atlantic,Major Addition,2015,1690726
+South Atlantic,Add and Alteration,2024,961214
+South Atlantic,Add and Alteration,2023,6005948
+South Atlantic,Add and Alteration,2022,5827463
+South Atlantic,Add and Alteration,2021,3832288
+South Atlantic,Add and Alteration,2020,4001692
+South Atlantic,Add and Alteration,2019,4521947
+South Atlantic,Add and Alteration,2018,5224052
+South Atlantic,Add and Alteration,2017,4446264
+South Atlantic,Add and Alteration,2016,5095605
+South Atlantic,Add and Alteration,2015,3376948
+South Atlantic,Major Alteration,2024,5439835
+South Atlantic,Major Alteration,2023,19863416
+South Atlantic,Major Alteration,2022,18556342
+South Atlantic,Major Alteration,2021,14164646
+South Atlantic,Major Alteration,2020,13395559
+South Atlantic,Major Alteration,2019,14634575
+South Atlantic,Major Alteration,2018,12705278
+South Atlantic,Major Alteration,2017,12265723
+South Atlantic,Major Alteration,2016,11399334
+South Atlantic,Major Alteration,2015,9888860
+West North Central,New Construction,2024,7345867
+West North Central,New Construction,2023,37274991
+West North Central,New Construction,2022,37215550
+West North Central,New Construction,2021,38480958
+West North Central,New Construction,2020,30537696
+West North Central,New Construction,2019,32483151
+West North Central,New Construction,2018,30386066
+West North Central,New Construction,2017,30020249
+West North Central,New Construction,2016,26979820
+West North Central,New Construction,2015,26988035
+West North Central,Major Addition,2024,499904
+West North Central,Major Addition,2023,2006391
+West North Central,Major Addition,2022,1220074
+West North Central,Major Addition,2021,657762
+West North Central,Major Addition,2020,928848
+West North Central,Major Addition,2019,845591
+West North Central,Major Addition,2018,1207662
+West North Central,Major Addition,2017,1209242
+West North Central,Major Addition,2016,849978
+West North Central,Major Addition,2015,1594497
+West North Central,Add and Alteration,2024,861212
+West North Central,Add and Alteration,2023,2881721
+West North Central,Add and Alteration,2022,2902104
+West North Central,Add and Alteration,2021,2664112
+West North Central,Add and Alteration,2020,2690562
+West North Central,Add and Alteration,2019,2773433
+West North Central,Add and Alteration,2018,2679693
+West North Central,Add and Alteration,2017,2331098
+West North Central,Add and Alteration,2016,2458107
+West North Central,Add and Alteration,2015,2471945
+West North Central,Major Alteration,2024,1338030
+West North Central,Major Alteration,2023,6101891
+West North Central,Major Alteration,2022,5666853
+West North Central,Major Alteration,2021,4955883
+West North Central,Major Alteration,2020,4102690
+West North Central,Major Alteration,2019,4636844
+West North Central,Major Alteration,2018,5408750
+West North Central,Major Alteration,2017,4413784
+West North Central,Major Alteration,2016,4936787
+West North Central,Major Alteration,2015,4146145
+West South Central,New Construction,2024,26064453
+West South Central,New Construction,2023,95607878
+West South Central,New Construction,2022,132424221
+West South Central,New Construction,2021,97652860
+West South Central,New Construction,2020,81715831
+West South Central,New Construction,2019,86436767
+West South Central,New Construction,2018,75578279
+West South Central,New Construction,2017,71205993
+West South Central,New Construction,2016,69398807
+West South Central,New Construction,2015,75591435
+West South Central,Major Addition,2024,651563
+West South Central,Major Addition,2023,3143823
+West South Central,Major Addition,2022,1711375
+West South Central,Major Addition,2021,2280633
+West South Central,Major Addition,2020,2403845
+West South Central,Major Addition,2019,5254644
+West South Central,Major Addition,2018,1440362
+West South Central,Major Addition,2017,3357430
+West South Central,Major Addition,2016,1310202
+West South Central,Major Addition,2015,1102659
+West South Central,Add and Alteration,2024,3576230
+West South Central,Add and Alteration,2023,3394312
+West South Central,Add and Alteration,2022,4105577
+West South Central,Add and Alteration,2021,3432742
+West South Central,Add and Alteration,2020,3847489
+West South Central,Add and Alteration,2019,3921040
+West South Central,Add and Alteration,2018,5141608
+West South Central,Add and Alteration,2017,3796749
+West South Central,Add and Alteration,2016,3215137
+West South Central,Add and Alteration,2015,3362638
+West South Central,Major Alteration,2024,5266348
+West South Central,Major Alteration,2023,17473123
+West South Central,Major Alteration,2022,15485479
+West South Central,Major Alteration,2021,10091766
+West South Central,Major Alteration,2020,10122619
+West South Central,Major Alteration,2019,11310589
+West South Central,Major Alteration,2018,9146099
+West South Central,Major Alteration,2017,9526284
+West South Central,Major Alteration,2016,10308106
+West South Central,Major Alteration,2015,7712767

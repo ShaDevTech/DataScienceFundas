@@ -1,0 +1,840 @@
+﻿Industry,Work Type,Switch Time,Measure
+Stores and Restaurants,Private,2024,4599564
+Stores and Restaurants,Private,2023,18881366
+Stores and Restaurants,Private,2022,18982182
+Stores and Restaurants,Private,2021,14713100
+Stores and Restaurants,Private,2020,12206660
+Stores and Restaurants,Private,2019,16043853
+Stores and Restaurants,Private,2018,16472021
+Stores and Restaurants,Private,2017,19744841
+Stores and Restaurants,Private,2016,20556362
+Stores and Restaurants,Private,2015,19798565
+Stores and Restaurants,County,2024,143353
+Stores and Restaurants,County,2023,427116
+Stores and Restaurants,County,2022,368994
+Stores and Restaurants,County,2021,174003
+Stores and Restaurants,County,2020,229577
+Stores and Restaurants,County,2019,372640
+Stores and Restaurants,County,2018,339081
+Stores and Restaurants,County,2017,233470
+Stores and Restaurants,County,2016,249161
+Stores and Restaurants,County,2015,207378
+Stores and Restaurants,State,2024,21242
+Stores and Restaurants,State,2023,181535
+Stores and Restaurants,State,2022,93474
+Stores and Restaurants,State,2021,70847
+Stores and Restaurants,State,2020,141964
+Stores and Restaurants,State,2019,103773
+Stores and Restaurants,State,2018,235674
+Stores and Restaurants,State,2017,160762
+Stores and Restaurants,State,2016,215748
+Stores and Restaurants,State,2015,186675
+Stores and Restaurants,Federal,2024,9792
+Stores and Restaurants,Federal,2023,42341
+Stores and Restaurants,Federal,2022,35396
+Stores and Restaurants,Federal,2021,51992
+Stores and Restaurants,Federal,2020,23002
+Stores and Restaurants,Federal,2019,79636
+Stores and Restaurants,Federal,2018,66037
+Stores and Restaurants,Federal,2017,92795
+Stores and Restaurants,Federal,2016,81514
+Stores and Restaurants,Federal,2015,89061
+Warehouses (excl. manufacturer owned),Private,2024,9492201
+Warehouses (excl. manufacturer owned),Private,2023,44815324
+Warehouses (excl. manufacturer owned),Private,2022,59428689
+Warehouses (excl. manufacturer owned),Private,2021,48512778
+Warehouses (excl. manufacturer owned),Private,2020,34428555
+Warehouses (excl. manufacturer owned),Private,2019,29285120
+Warehouses (excl. manufacturer owned),Private,2018,23109721
+Warehouses (excl. manufacturer owned),Private,2017,22644688
+Warehouses (excl. manufacturer owned),Private,2016,18784437
+Warehouses (excl. manufacturer owned),Private,2015,14661689
+Warehouses (excl. manufacturer owned),County,2024,186810
+Warehouses (excl. manufacturer owned),County,2023,1174428
+Warehouses (excl. manufacturer owned),County,2022,1070694
+Warehouses (excl. manufacturer owned),County,2021,824060
+Warehouses (excl. manufacturer owned),County,2020,636789
+Warehouses (excl. manufacturer owned),County,2019,526143
+Warehouses (excl. manufacturer owned),County,2018,720856
+Warehouses (excl. manufacturer owned),County,2017,668533
+Warehouses (excl. manufacturer owned),County,2016,967899
+Warehouses (excl. manufacturer owned),County,2015,498065
+Warehouses (excl. manufacturer owned),State,2024,114684
+Warehouses (excl. manufacturer owned),State,2023,368965
+Warehouses (excl. manufacturer owned),State,2022,255907
+Warehouses (excl. manufacturer owned),State,2021,157582
+Warehouses (excl. manufacturer owned),State,2020,218005
+Warehouses (excl. manufacturer owned),State,2019,204369
+Warehouses (excl. manufacturer owned),State,2018,218634
+Warehouses (excl. manufacturer owned),State,2017,131430
+Warehouses (excl. manufacturer owned),State,2016,219121
+Warehouses (excl. manufacturer owned),State,2015,230006
+Warehouses (excl. manufacturer owned),Federal,2024,42564
+Warehouses (excl. manufacturer owned),Federal,2023,417217
+Warehouses (excl. manufacturer owned),Federal,2022,268595
+Warehouses (excl. manufacturer owned),Federal,2021,162954
+Warehouses (excl. manufacturer owned),Federal,2020,288589
+Warehouses (excl. manufacturer owned),Federal,2019,335748
+Warehouses (excl. manufacturer owned),Federal,2018,127318
+Warehouses (excl. manufacturer owned),Federal,2017,167428
+Warehouses (excl. manufacturer owned),Federal,2016,70366
+Warehouses (excl. manufacturer owned),Federal,2015,65637
+Office and Bank Buildings,Private,2024,10593753
+Office and Bank Buildings,Private,2023,47048462
+Office and Bank Buildings,Private,2022,47866575
+Office and Bank Buildings,Private,2021,36165885
+Office and Bank Buildings,Private,2020,38942692
+Office and Bank Buildings,Private,2019,47671609
+Office and Bank Buildings,Private,2018,43062659
+Office and Bank Buildings,Private,2017,36990494
+Office and Bank Buildings,Private,2016,36015941
+Office and Bank Buildings,Private,2015,29129147
+Office and Bank Buildings,Municipal,2017,15000
+Office and Bank Buildings,County,2024,1370105
+Office and Bank Buildings,County,2023,4256715
+Office and Bank Buildings,County,2022,3280836
+Office and Bank Buildings,County,2021,2844832
+Office and Bank Buildings,County,2020,2652264
+Office and Bank Buildings,County,2019,2975887
+Office and Bank Buildings,County,2018,2233772
+Office and Bank Buildings,County,2017,2119306
+Office and Bank Buildings,County,2016,1762244
+Office and Bank Buildings,County,2015,1298734
+Office and Bank Buildings,State,2024,476750
+Office and Bank Buildings,State,2023,1160506
+Office and Bank Buildings,State,2022,1505268
+Office and Bank Buildings,State,2021,630762
+Office and Bank Buildings,State,2020,1598922
+Office and Bank Buildings,State,2019,1138722
+Office and Bank Buildings,State,2018,2309906
+Office and Bank Buildings,State,2017,1070071
+Office and Bank Buildings,State,2016,776768
+Office and Bank Buildings,State,2015,572215
+Office and Bank Buildings,Federal,2024,30083
+Office and Bank Buildings,Federal,2023,1752663
+Office and Bank Buildings,Federal,2022,936882
+Office and Bank Buildings,Federal,2021,1930512
+Office and Bank Buildings,Federal,2020,900609
+Office and Bank Buildings,Federal,2019,2512286
+Office and Bank Buildings,Federal,2018,652815
+Office and Bank Buildings,Federal,2017,1445293
+Office and Bank Buildings,Federal,2016,926430
+Office and Bank Buildings,Federal,2015,384459
+Parking Garages and Automotive Services,Private,2024,3298836
+Parking Garages and Automotive Services,Private,2023,15334416
+Parking Garages and Automotive Services,Private,2022,17287639
+Parking Garages and Automotive Services,Private,2021,13361809
+Parking Garages and Automotive Services,Private,2020,10461270
+Parking Garages and Automotive Services,Private,2019,14706631
+Parking Garages and Automotive Services,Private,2018,12967446
+Parking Garages and Automotive Services,Private,2017,11711636
+Parking Garages and Automotive Services,Private,2016,12730966
+Parking Garages and Automotive Services,Private,2015,9700613
+Parking Garages and Automotive Services,County,2024,610038
+Parking Garages and Automotive Services,County,2023,1832154
+Parking Garages and Automotive Services,County,2022,2328346
+Parking Garages and Automotive Services,County,2021,1884952
+Parking Garages and Automotive Services,County,2020,941784
+Parking Garages and Automotive Services,County,2019,4002100
+Parking Garages and Automotive Services,County,2018,1424346
+Parking Garages and Automotive Services,County,2017,1637317
+Parking Garages and Automotive Services,County,2016,1230991
+Parking Garages and Automotive Services,County,2015,2184238
+Parking Garages and Automotive Services,State,2024,211494
+Parking Garages and Automotive Services,State,2023,552858
+Parking Garages and Automotive Services,State,2022,448600
+Parking Garages and Automotive Services,State,2021,574286
+Parking Garages and Automotive Services,State,2020,704077
+Parking Garages and Automotive Services,State,2019,1350728
+Parking Garages and Automotive Services,State,2018,890758
+Parking Garages and Automotive Services,State,2017,621807
+Parking Garages and Automotive Services,State,2016,1097998
+Parking Garages and Automotive Services,State,2015,598659
+Parking Garages and Automotive Services,Federal,2024,11062
+Parking Garages and Automotive Services,Federal,2023,246514
+Parking Garages and Automotive Services,Federal,2022,155783
+Parking Garages and Automotive Services,Federal,2021,387838
+Parking Garages and Automotive Services,Federal,2020,166091
+Parking Garages and Automotive Services,Federal,2019,334140
+Parking Garages and Automotive Services,Federal,2018,106390
+Parking Garages and Automotive Services,Federal,2017,288009
+Parking Garages and Automotive Services,Federal,2016,191476
+Parking Garages and Automotive Services,Federal,2015,158422
+Manufacturing and Processing Plants,Private,2024,14837750
+Manufacturing and Processing Plants,Private,2023,69700799
+Manufacturing and Processing Plants,Private,2022,96093045
+Manufacturing and Processing Plants,Private,2021,27546949
+Manufacturing and Processing Plants,Private,2020,13532009
+Manufacturing and Processing Plants,Private,2019,30578291
+Manufacturing and Processing Plants,Private,2018,22219872
+Manufacturing and Processing Plants,Private,2017,22265337
+Manufacturing and Processing Plants,Private,2016,16931640
+Manufacturing and Processing Plants,Private,2015,22877305
+Manufacturing and Processing Plants,County,2024,45755
+Manufacturing and Processing Plants,County,2023,219893
+Manufacturing and Processing Plants,County,2022,319674
+Manufacturing and Processing Plants,County,2021,94734
+Manufacturing and Processing Plants,County,2020,56631
+Manufacturing and Processing Plants,County,2019,82185
+Manufacturing and Processing Plants,County,2018,127114
+Manufacturing and Processing Plants,County,2017,128418
+Manufacturing and Processing Plants,County,2016,105340
+Manufacturing and Processing Plants,County,2015,59789
+Manufacturing and Processing Plants,State,2024,802
+Manufacturing and Processing Plants,State,2023,20371
+Manufacturing and Processing Plants,State,2022,12127
+Manufacturing and Processing Plants,State,2021,36817
+Manufacturing and Processing Plants,State,2020,11241
+Manufacturing and Processing Plants,State,2019,32657
+Manufacturing and Processing Plants,State,2018,14476
+Manufacturing and Processing Plants,State,2017,89265
+Manufacturing and Processing Plants,State,2016,1645
+Manufacturing and Processing Plants,State,2015,2700
+Manufacturing and Processing Plants,Federal,2023,769463
+Manufacturing and Processing Plants,Federal,2022,10712
+Manufacturing and Processing Plants,Federal,2021,46987
+Manufacturing and Processing Plants,Federal,2020,20110
+Manufacturing and Processing Plants,Federal,2019,118334
+Manufacturing and Processing Plants,Federal,2018,6529431
+Manufacturing and Processing Plants,Federal,2017,1979
+Manufacturing and Processing Plants,Federal,2016,19567
+Manufacturing and Processing Plants,Federal,2015,2102
+Warehouses (Manufacturer owned),Private,2024,575498
+Warehouses (Manufacturer owned),Private,2023,1828693
+Warehouses (Manufacturer owned),Private,2022,2502169
+Warehouses (Manufacturer owned),Private,2021,2861445
+Warehouses (Manufacturer owned),Private,2020,2471019
+Warehouses (Manufacturer owned),Private,2019,1757299
+Warehouses (Manufacturer owned),Private,2018,2194679
+Warehouses (Manufacturer owned),Private,2017,2257599
+Warehouses (Manufacturer owned),Private,2016,2163414
+Warehouses (Manufacturer owned),Private,2015,1662150
+Warehouses (Manufacturer owned),County,2022,18930
+Warehouses (Manufacturer owned),County,2020,5000
+Warehouses (Manufacturer owned),County,2019,3792
+Warehouses (Manufacturer owned),County,2018,13800
+Warehouses (Manufacturer owned),County,2017,53490
+Warehouses (Manufacturer owned),County,2016,1651
+Warehouses (Manufacturer owned),Federal,2024,108300
+Warehouses (Manufacturer owned),Federal,2021,3525
+Warehouses (Manufacturer owned),Federal,2015,3000
+Laboratories (Manufacturer owned),Private,2024,356395
+Laboratories (Manufacturer owned),Private,2023,2197401
+Laboratories (Manufacturer owned),Private,2022,2451150
+Laboratories (Manufacturer owned),Private,2021,1688937
+Laboratories (Manufacturer owned),Private,2020,969703
+Laboratories (Manufacturer owned),Private,2019,935943
+Laboratories (Manufacturer owned),Private,2018,1148459
+Laboratories (Manufacturer owned),Private,2017,1435457
+Laboratories (Manufacturer owned),Private,2016,1069424
+Laboratories (Manufacturer owned),Private,2015,624227
+Laboratories (Manufacturer owned),County,2024,47249
+Laboratories (Manufacturer owned),County,2023,155708
+Laboratories (Manufacturer owned),County,2022,102902
+Laboratories (Manufacturer owned),County,2021,17864
+Laboratories (Manufacturer owned),County,2020,16744
+Laboratories (Manufacturer owned),County,2019,30213
+Laboratories (Manufacturer owned),County,2018,9128
+Laboratories (Manufacturer owned),County,2017,8256
+Laboratories (Manufacturer owned),County,2016,11461
+Laboratories (Manufacturer owned),County,2015,10580
+Laboratories (Manufacturer owned),State,2024,45928
+Laboratories (Manufacturer owned),State,2023,156165
+Laboratories (Manufacturer owned),State,2022,79569
+Laboratories (Manufacturer owned),State,2021,16415
+Laboratories (Manufacturer owned),State,2020,10331
+Laboratories (Manufacturer owned),State,2019,16969
+Laboratories (Manufacturer owned),State,2018,17934
+Laboratories (Manufacturer owned),State,2017,14911
+Laboratories (Manufacturer owned),State,2016,26693
+Laboratories (Manufacturer owned),State,2015,17737
+Laboratories (Manufacturer owned),Federal,2024,36500
+Laboratories (Manufacturer owned),Federal,2023,79996
+Laboratories (Manufacturer owned),Federal,2022,76607
+Laboratories (Manufacturer owned),Federal,2021,11921
+Laboratories (Manufacturer owned),Federal,2020,1952
+Laboratories (Manufacturer owned),Federal,2019,2166
+Laboratories (Manufacturer owned),Federal,2018,9239
+Laboratories (Manufacturer owned),Federal,2017,1379
+Laboratories (Manufacturer owned),Federal,2016,16663
+Laboratories (Manufacturer owned),Federal,2015,4363
+Schools and Colleges,Private,2024,1845798
+Schools and Colleges,Private,2023,8325654
+Schools and Colleges,Private,2022,6335810
+Schools and Colleges,Private,2021,6305240
+Schools and Colleges,Private,2020,5223502
+Schools and Colleges,Private,2019,5903651
+Schools and Colleges,Private,2018,6310386
+Schools and Colleges,Private,2017,7781517
+Schools and Colleges,Private,2016,6568276
+Schools and Colleges,Private,2015,7337048
+Schools and Colleges,County,2024,10595313
+Schools and Colleges,County,2023,49094416
+Schools and Colleges,County,2022,44760475
+Schools and Colleges,County,2021,40293019
+Schools and Colleges,County,2020,42815981
+Schools and Colleges,County,2019,44812216
+Schools and Colleges,County,2018,41197029
+Schools and Colleges,County,2017,33950225
+Schools and Colleges,County,2016,31873881
+Schools and Colleges,County,2015,26939470
+Schools and Colleges,State,2024,2893215
+Schools and Colleges,State,2023,11963626
+Schools and Colleges,State,2022,8700521
+Schools and Colleges,State,2021,7403190
+Schools and Colleges,State,2020,7739944
+Schools and Colleges,State,2019,6701346
+Schools and Colleges,State,2018,7447104
+Schools and Colleges,State,2017,8846507
+Schools and Colleges,State,2016,7018663
+Schools and Colleges,State,2015,6381986
+Schools and Colleges,Federal,2024,9038
+Schools and Colleges,Federal,2023,310473
+Schools and Colleges,Federal,2022,206748
+Schools and Colleges,Federal,2021,561096
+Schools and Colleges,Federal,2020,294111
+Schools and Colleges,Federal,2019,321338
+Schools and Colleges,Federal,2018,281505
+Schools and Colleges,Federal,2017,367363
+Schools and Colleges,Federal,2016,217310
+Schools and Colleges,Federal,2015,302320
+Laboratories (excl. manufacturer owned),Private,2024,573864
+Laboratories (excl. manufacturer owned),Private,2023,7006007
+Laboratories (excl. manufacturer owned),Private,2022,9010688
+Laboratories (excl. manufacturer owned),Private,2021,4315016
+Laboratories (excl. manufacturer owned),Private,2020,2230325
+Laboratories (excl. manufacturer owned),Private,2019,2020844
+Laboratories (excl. manufacturer owned),Private,2018,1823215
+Laboratories (excl. manufacturer owned),Private,2017,2427561
+Laboratories (excl. manufacturer owned),Private,2016,1182835
+Laboratories (excl. manufacturer owned),Private,2015,2044548
+Laboratories (excl. manufacturer owned),County,2024,273385
+Laboratories (excl. manufacturer owned),County,2023,1177760
+Laboratories (excl. manufacturer owned),County,2022,1017484
+Laboratories (excl. manufacturer owned),County,2021,279576
+Laboratories (excl. manufacturer owned),County,2020,177381
+Laboratories (excl. manufacturer owned),County,2019,761940
+Laboratories (excl. manufacturer owned),County,2018,414819
+Laboratories (excl. manufacturer owned),County,2017,156511
+Laboratories (excl. manufacturer owned),County,2016,538165
+Laboratories (excl. manufacturer owned),County,2015,105431
+Laboratories (excl. manufacturer owned),State,2024,787178
+Laboratories (excl. manufacturer owned),State,2023,1845927
+Laboratories (excl. manufacturer owned),State,2022,642946
+Laboratories (excl. manufacturer owned),State,2021,756583
+Laboratories (excl. manufacturer owned),State,2020,935683
+Laboratories (excl. manufacturer owned),State,2019,825453
+Laboratories (excl. manufacturer owned),State,2018,2095824
+Laboratories (excl. manufacturer owned),State,2017,847603
+Laboratories (excl. manufacturer owned),State,2016,1530066
+Laboratories (excl. manufacturer owned),State,2015,979830
+Laboratories (excl. manufacturer owned),Federal,2024,235946
+Laboratories (excl. manufacturer owned),Federal,2023,498471
+Laboratories (excl. manufacturer owned),Federal,2022,526796
+Laboratories (excl. manufacturer owned),Federal,2021,869517
+Laboratories (excl. manufacturer owned),Federal,2020,489655
+Laboratories (excl. manufacturer owned),Federal,2019,252711
+Laboratories (excl. manufacturer owned),Federal,2018,377090
+Laboratories (excl. manufacturer owned),Federal,2017,557149
+Laboratories (excl. manufacturer owned),Federal,2016,389151
+Laboratories (excl. manufacturer owned),Federal,2015,1285129
+Libraries and Museums,Private,2024,304418
+Libraries and Museums,Private,2023,1056220
+Libraries and Museums,Private,2022,944824
+Libraries and Museums,Private,2021,2139713
+Libraries and Museums,Private,2020,1373906
+Libraries and Museums,Private,2019,764651
+Libraries and Museums,Private,2018,1415963
+Libraries and Museums,Private,2017,1657573
+Libraries and Museums,Private,2016,1739839
+Libraries and Museums,Private,2015,1479998
+Libraries and Museums,County,2024,633854
+Libraries and Museums,County,2023,1946536
+Libraries and Museums,County,2022,1567090
+Libraries and Museums,County,2021,1422052
+Libraries and Museums,County,2020,1403391
+Libraries and Museums,County,2019,1391178
+Libraries and Museums,County,2018,1218380
+Libraries and Museums,County,2017,1466952
+Libraries and Museums,County,2016,1098535
+Libraries and Museums,County,2015,1069863
+Libraries and Museums,State,2024,49330
+Libraries and Museums,State,2023,363236
+Libraries and Museums,State,2022,464214
+Libraries and Museums,State,2021,297001
+Libraries and Museums,State,2020,366510
+Libraries and Museums,State,2019,500672
+Libraries and Museums,State,2018,394505
+Libraries and Museums,State,2017,377496
+Libraries and Museums,State,2016,308292
+Libraries and Museums,State,2015,261537
+Libraries and Museums,Federal,2024,534
+Libraries and Museums,Federal,2023,280763
+Libraries and Museums,Federal,2022,193409
+Libraries and Museums,Federal,2021,20543
+Libraries and Museums,Federal,2020,85374
+Libraries and Museums,Federal,2019,62638
+Libraries and Museums,Federal,2018,747551
+Libraries and Museums,Federal,2017,166199
+Libraries and Museums,Federal,2016,64727
+Libraries and Museums,Federal,2015,118765
+Hospitals and Other Health Treatment,Private,2024,6419361
+Hospitals and Other Health Treatment,Private,2023,31156856
+Hospitals and Other Health Treatment,Private,2022,30133683
+Hospitals and Other Health Treatment,Private,2021,21768777
+Hospitals and Other Health Treatment,Private,2020,22128879
+Hospitals and Other Health Treatment,Private,2019,21541167
+Hospitals and Other Health Treatment,Private,2018,23355350
+Hospitals and Other Health Treatment,Private,2017,24198891
+Hospitals and Other Health Treatment,Private,2016,23000633
+Hospitals and Other Health Treatment,Private,2015,19730347
+Hospitals and Other Health Treatment,County,2024,1251171
+Hospitals and Other Health Treatment,County,2023,2895958
+Hospitals and Other Health Treatment,County,2022,2528626
+Hospitals and Other Health Treatment,County,2021,2392446
+Hospitals and Other Health Treatment,County,2020,2000334
+Hospitals and Other Health Treatment,County,2019,2090180
+Hospitals and Other Health Treatment,County,2018,1778065
+Hospitals and Other Health Treatment,County,2017,1649952
+Hospitals and Other Health Treatment,County,2016,754648
+Hospitals and Other Health Treatment,County,2015,1567520
+Hospitals and Other Health Treatment,State,2024,158313
+Hospitals and Other Health Treatment,State,2023,2901886
+Hospitals and Other Health Treatment,State,2022,3277289
+Hospitals and Other Health Treatment,State,2021,4376957
+Hospitals and Other Health Treatment,State,2020,3122862
+Hospitals and Other Health Treatment,State,2019,3132029
+Hospitals and Other Health Treatment,State,2018,1116733
+Hospitals and Other Health Treatment,State,2017,1917822
+Hospitals and Other Health Treatment,State,2016,2100545
+Hospitals and Other Health Treatment,State,2015,1260198
+Hospitals and Other Health Treatment,Federal,2024,146368
+Hospitals and Other Health Treatment,Federal,2023,1789990
+Hospitals and Other Health Treatment,Federal,2022,1333150
+Hospitals and Other Health Treatment,Federal,2021,1978793
+Hospitals and Other Health Treatment,Federal,2020,1399805
+Hospitals and Other Health Treatment,Federal,2019,1831421
+Hospitals and Other Health Treatment,Federal,2018,1437914
+Hospitals and Other Health Treatment,Federal,2017,760913
+Hospitals and Other Health Treatment,Federal,2016,915573
+Hospitals and Other Health Treatment,Federal,2015,913646
+Capitols/Court Houses/City Halls,Private,2024,35804
+Capitols/Court Houses/City Halls,Private,2023,37030
+Capitols/Court Houses/City Halls,Private,2022,73180
+Capitols/Court Houses/City Halls,Private,2021,87833
+Capitols/Court Houses/City Halls,Private,2020,10598
+Capitols/Court Houses/City Halls,Private,2019,39745
+Capitols/Court Houses/City Halls,Private,2018,49403
+Capitols/Court Houses/City Halls,Private,2017,39058
+Capitols/Court Houses/City Halls,Private,2016,295863
+Capitols/Court Houses/City Halls,Private,2015,71102
+Capitols/Court Houses/City Halls,County,2024,681264
+Capitols/Court Houses/City Halls,County,2023,2813135
+Capitols/Court Houses/City Halls,County,2022,2547250
+Capitols/Court Houses/City Halls,County,2021,2762550
+Capitols/Court Houses/City Halls,County,2020,2759164
+Capitols/Court Houses/City Halls,County,2019,2178832
+Capitols/Court Houses/City Halls,County,2018,1860285
+Capitols/Court Houses/City Halls,County,2017,1954578
+Capitols/Court Houses/City Halls,County,2016,1577052
+Capitols/Court Houses/City Halls,County,2015,1834390
+Capitols/Court Houses/City Halls,State,2024,7252
+Capitols/Court Houses/City Halls,State,2023,743395
+Capitols/Court Houses/City Halls,State,2022,1011052
+Capitols/Court Houses/City Halls,State,2021,692810
+Capitols/Court Houses/City Halls,State,2020,448969
+Capitols/Court Houses/City Halls,State,2019,439542
+Capitols/Court Houses/City Halls,State,2018,340888
+Capitols/Court Houses/City Halls,State,2017,240720
+Capitols/Court Houses/City Halls,State,2016,473096
+Capitols/Court Houses/City Halls,State,2015,167957
+Capitols/Court Houses/City Halls,Federal,2024,106072
+Capitols/Court Houses/City Halls,Federal,2023,32033
+Capitols/Court Houses/City Halls,Federal,2022,271882
+Capitols/Court Houses/City Halls,Federal,2021,229359
+Capitols/Court Houses/City Halls,Federal,2020,163530
+Capitols/Court Houses/City Halls,Federal,2019,561663
+Capitols/Court Houses/City Halls,Federal,2018,284871
+Capitols/Court Houses/City Halls,Federal,2017,37094
+Capitols/Court Houses/City Halls,Federal,2016,300920
+Capitols/Court Houses/City Halls,Federal,2015,50011
+Other Government Service Buildings,Private,2024,37499
+Other Government Service Buildings,Private,2023,222220
+Other Government Service Buildings,Private,2022,215682
+Other Government Service Buildings,Private,2021,164804
+Other Government Service Buildings,Private,2020,225750
+Other Government Service Buildings,Private,2019,147598
+Other Government Service Buildings,Private,2018,395499
+Other Government Service Buildings,Private,2017,293744
+Other Government Service Buildings,Private,2016,107764
+Other Government Service Buildings,Private,2015,157529
+Other Government Service Buildings,County,2024,1529888
+Other Government Service Buildings,County,2023,7507736
+Other Government Service Buildings,County,2022,5298383
+Other Government Service Buildings,County,2021,4391927
+Other Government Service Buildings,County,2020,4800309
+Other Government Service Buildings,County,2019,4481711
+Other Government Service Buildings,County,2018,4643352
+Other Government Service Buildings,County,2017,4224651
+Other Government Service Buildings,County,2016,2848430
+Other Government Service Buildings,County,2015,2836922
+Other Government Service Buildings,State,2024,230666
+Other Government Service Buildings,State,2023,2896383
+Other Government Service Buildings,State,2022,941252
+Other Government Service Buildings,State,2021,509807
+Other Government Service Buildings,State,2020,709906
+Other Government Service Buildings,State,2019,1081199
+Other Government Service Buildings,State,2018,700420
+Other Government Service Buildings,State,2017,568829
+Other Government Service Buildings,State,2016,653319
+Other Government Service Buildings,State,2015,607001
+Other Government Service Buildings,Federal,2024,1360476
+Other Government Service Buildings,Federal,2023,2966110
+Other Government Service Buildings,Federal,2022,2636428
+Other Government Service Buildings,Federal,2021,2859965
+Other Government Service Buildings,Federal,2020,3416243
+Other Government Service Buildings,Federal,2019,2328853
+Other Government Service Buildings,Federal,2018,1978765
+Other Government Service Buildings,Federal,2017,2344028
+Other Government Service Buildings,Federal,2016,2779747
+Other Government Service Buildings,Federal,2015,2411238
+Houses of Worship,Private,2024,366662
+Houses of Worship,Private,2023,1906807
+Houses of Worship,Private,2022,1532227
+Houses of Worship,Private,2021,1408325
+Houses of Worship,Private,2020,1661237
+Houses of Worship,Private,2019,1933229
+Houses of Worship,Private,2018,1732308
+Houses of Worship,Private,2017,2059700
+Houses of Worship,Private,2016,1658056
+Houses of Worship,Private,2015,2029786
+Houses of Worship,County,2024,2002
+Houses of Worship,County,2023,7463
+Houses of Worship,County,2022,7761
+Houses of Worship,County,2021,3474
+Houses of Worship,County,2020,4924
+Houses of Worship,County,2019,5302
+Houses of Worship,County,2018,7528
+Houses of Worship,County,2017,4293
+Houses of Worship,County,2016,2242
+Houses of Worship,County,2015,110
+Houses of Worship,State,2023,26650
+Houses of Worship,State,2022,5530
+Houses of Worship,State,2020,5000
+Houses of Worship,State,2019,1625
+Houses of Worship,State,2018,2418
+Houses of Worship,State,2016,990
+Houses of Worship,State,2015,1010
+Houses of Worship,Federal,2023,1000
+Houses of Worship,Federal,2022,750
+Houses of Worship,Federal,2020,6120
+Houses of Worship,Federal,2019,158440
+Houses of Worship,Federal,2018,350
+Houses of Worship,Federal,2017,1100
+Houses of Worship,Federal,2016,395
+Other Religious Buildings,Private,2024,8488
+Other Religious Buildings,Private,2023,32268
+Other Religious Buildings,Private,2022,48754
+Other Religious Buildings,Private,2021,61434
+Other Religious Buildings,Private,2020,63989
+Other Religious Buildings,Private,2019,37437
+Other Religious Buildings,Private,2018,25564
+Other Religious Buildings,Private,2017,61273
+Other Religious Buildings,Private,2016,89404
+Other Religious Buildings,Private,2015,29550
+Other Religious Buildings,County,2024,2233
+Other Religious Buildings,County,2023,10794
+Other Religious Buildings,County,2022,18209
+Other Religious Buildings,County,2021,11381
+Other Religious Buildings,County,2020,19489
+Other Religious Buildings,County,2019,12653
+Other Religious Buildings,County,2018,15808
+Other Religious Buildings,County,2017,10264
+Other Religious Buildings,County,2016,7390
+Other Religious Buildings,County,2015,15422
+Other Religious Buildings,State,2024,1075
+Other Religious Buildings,State,2023,47900
+Other Religious Buildings,State,2022,6282
+Other Religious Buildings,State,2021,3667
+Other Religious Buildings,State,2020,6493
+Other Religious Buildings,State,2019,4203
+Other Religious Buildings,State,2018,2641
+Other Religious Buildings,State,2017,11186
+Other Religious Buildings,State,2016,23852
+Other Religious Buildings,State,2015,18175
+Other Religious Buildings,Federal,2024,16923
+Other Religious Buildings,Federal,2023,33235
+Other Religious Buildings,Federal,2022,40616
+Other Religious Buildings,Federal,2021,59179
+Other Religious Buildings,Federal,2020,36913
+Other Religious Buildings,Federal,2019,88352
+Other Religious Buildings,Federal,2018,44444
+Other Religious Buildings,Federal,2017,23531
+Other Religious Buildings,Federal,2016,34341
+Other Religious Buildings,Federal,2015,37855
+"Amusement, Social and Recreational Bldgs",Private,2024,3059420
+"Amusement, Social and Recreational Bldgs",Private,2023,11233004
+"Amusement, Social and Recreational Bldgs",Private,2022,10709565
+"Amusement, Social and Recreational Bldgs",Private,2021,8658713
+"Amusement, Social and Recreational Bldgs",Private,2020,4508408
+"Amusement, Social and Recreational Bldgs",Private,2019,10772477
+"Amusement, Social and Recreational Bldgs",Private,2018,11566443
+"Amusement, Social and Recreational Bldgs",Private,2017,11558595
+"Amusement, Social and Recreational Bldgs",Private,2016,12753118
+"Amusement, Social and Recreational Bldgs",Private,2015,7518529
+"Amusement, Social and Recreational Bldgs",County,2024,2276792
+"Amusement, Social and Recreational Bldgs",County,2023,9350437
+"Amusement, Social and Recreational Bldgs",County,2022,6925094
+"Amusement, Social and Recreational Bldgs",County,2021,5662266
+"Amusement, Social and Recreational Bldgs",County,2020,5299739
+"Amusement, Social and Recreational Bldgs",County,2019,5903837
+"Amusement, Social and Recreational Bldgs",County,2018,6237862
+"Amusement, Social and Recreational Bldgs",County,2017,3658336
+"Amusement, Social and Recreational Bldgs",County,2016,3832952
+"Amusement, Social and Recreational Bldgs",County,2015,5112043
+"Amusement, Social and Recreational Bldgs",State,2024,689275
+"Amusement, Social and Recreational Bldgs",State,2023,1755281
+"Amusement, Social and Recreational Bldgs",State,2022,1609454
+"Amusement, Social and Recreational Bldgs",State,2021,1733588
+"Amusement, Social and Recreational Bldgs",State,2020,1689477
+"Amusement, Social and Recreational Bldgs",State,2019,1970366
+"Amusement, Social and Recreational Bldgs",State,2018,2298782
+"Amusement, Social and Recreational Bldgs",State,2017,2793607
+"Amusement, Social and Recreational Bldgs",State,2016,1896718
+"Amusement, Social and Recreational Bldgs",State,2015,1268729
+"Amusement, Social and Recreational Bldgs",Federal,2024,31806
+"Amusement, Social and Recreational Bldgs",Federal,2023,458946
+"Amusement, Social and Recreational Bldgs",Federal,2022,286488
+"Amusement, Social and Recreational Bldgs",Federal,2021,510920
+"Amusement, Social and Recreational Bldgs",Federal,2020,162473
+"Amusement, Social and Recreational Bldgs",Federal,2019,102201
+"Amusement, Social and Recreational Bldgs",Federal,2018,456272
+"Amusement, Social and Recreational Bldgs",Federal,2017,114300
+"Amusement, Social and Recreational Bldgs",Federal,2016,77345
+"Amusement, Social and Recreational Bldgs",Federal,2015,296880
+Miscellaneous Nonresidential Buildings,Private,2024,3155210
+Miscellaneous Nonresidential Buildings,Private,2023,6253235
+Miscellaneous Nonresidential Buildings,Private,2022,14453608
+Miscellaneous Nonresidential Buildings,Private,2021,3343055
+Miscellaneous Nonresidential Buildings,Private,2020,1934026
+Miscellaneous Nonresidential Buildings,Private,2019,2047738
+Miscellaneous Nonresidential Buildings,Private,2018,2758048
+Miscellaneous Nonresidential Buildings,Private,2017,8913266
+Miscellaneous Nonresidential Buildings,Private,2016,1673560
+Miscellaneous Nonresidential Buildings,Private,2015,2303369
+Miscellaneous Nonresidential Buildings,Municipal,2017,15000
+Miscellaneous Nonresidential Buildings,County,2024,2808099
+Miscellaneous Nonresidential Buildings,County,2023,10879577
+Miscellaneous Nonresidential Buildings,County,2022,7557462
+Miscellaneous Nonresidential Buildings,County,2021,8363342
+Miscellaneous Nonresidential Buildings,County,2020,5352108
+Miscellaneous Nonresidential Buildings,County,2019,7921180
+Miscellaneous Nonresidential Buildings,County,2018,7137151
+Miscellaneous Nonresidential Buildings,County,2017,7516113
+Miscellaneous Nonresidential Buildings,County,2016,5687899
+Miscellaneous Nonresidential Buildings,County,2015,3709511
+Miscellaneous Nonresidential Buildings,State,2024,383742
+Miscellaneous Nonresidential Buildings,State,2023,1104425
+Miscellaneous Nonresidential Buildings,State,2022,1170263
+Miscellaneous Nonresidential Buildings,State,2021,569024
+Miscellaneous Nonresidential Buildings,State,2020,1716038
+Miscellaneous Nonresidential Buildings,State,2019,1309205
+Miscellaneous Nonresidential Buildings,State,2018,2530153
+Miscellaneous Nonresidential Buildings,State,2017,4284380
+Miscellaneous Nonresidential Buildings,State,2016,1546986
+Miscellaneous Nonresidential Buildings,State,2015,858480
+Miscellaneous Nonresidential Buildings,Federal,2024,73379
+Miscellaneous Nonresidential Buildings,Federal,2023,1311858
+Miscellaneous Nonresidential Buildings,Federal,2022,1340050
+Miscellaneous Nonresidential Buildings,Federal,2021,1112944
+Miscellaneous Nonresidential Buildings,Federal,2020,732971
+Miscellaneous Nonresidential Buildings,Federal,2019,1047229
+Miscellaneous Nonresidential Buildings,Federal,2018,786390
+Miscellaneous Nonresidential Buildings,Federal,2017,872502
+Miscellaneous Nonresidential Buildings,Federal,2016,600925
+Miscellaneous Nonresidential Buildings,Federal,2015,562690
+One-family Houses,Private,2024,65217462
+One-family Houses,Private,2023,230602780
+One-family Houses,Private,2022,264811587
+One-family Houses,Private,2021,305816240
+One-family Houses,Private,2020,258630607
+One-family Houses,Private,2019,229895845
+One-family Houses,Private,2018,229890951
+One-family Houses,Private,2017,218278419
+One-family Houses,Private,2016,200991274
+One-family Houses,Private,2015,185936486
+One-family Houses,County,2024,75516
+One-family Houses,County,2023,357836
+One-family Houses,County,2022,323593
+One-family Houses,County,2021,256746
+One-family Houses,County,2020,97776
+One-family Houses,County,2019,234703
+One-family Houses,County,2018,110251
+One-family Houses,County,2017,120405
+One-family Houses,County,2016,118799
+One-family Houses,County,2015,207930
+One-family Houses,State,2024,24575
+One-family Houses,State,2023,61618
+One-family Houses,State,2022,5036
+One-family Houses,State,2021,21908
+One-family Houses,State,2020,21545
+One-family Houses,State,2019,17839
+One-family Houses,State,2018,5199
+One-family Houses,State,2017,12147
+One-family Houses,State,2016,6295
+One-family Houses,State,2015,25731
+One-family Houses,Federal,2024,41105
+One-family Houses,Federal,2023,23456
+One-family Houses,Federal,2022,21907
+One-family Houses,Federal,2021,2773
+One-family Houses,Federal,2020,25207
+One-family Houses,Federal,2019,7125
+One-family Houses,Federal,2018,9491
+One-family Houses,Federal,2017,2505
+One-family Houses,Federal,2016,35238
+One-family Houses,Federal,2015,21116
+Two-family Houses,Private,2024,1309593
+Two-family Houses,Private,2023,3971199
+Two-family Houses,Private,2022,4899735
+Two-family Houses,Private,2021,4817423
+Two-family Houses,Private,2020,3717864
+Two-family Houses,Private,2019,3610846
+Two-family Houses,Private,2018,3231620
+Two-family Houses,Private,2017,3100224
+Two-family Houses,Private,2016,2841722
+Two-family Houses,Private,2015,2472304
+Two-family Houses,County,2024,2085
+Two-family Houses,County,2023,23237
+Two-family Houses,County,2022,8310
+Two-family Houses,County,2021,2189
+Two-family Houses,County,2020,18467
+Two-family Houses,County,2019,2201
+Two-family Houses,County,2018,27755
+Two-family Houses,County,2017,16130
+Two-family Houses,County,2016,8193
+Two-family Houses,County,2015,2741
+Two-family Houses,State,2022,463
+Two-family Houses,State,2018,455
+Two-family Houses,Federal,2023,84563
+Two-family Houses,Federal,2022,986
+Two-family Houses,Federal,2020,14293
+Two-family Houses,Federal,2017,8535
+Apartments,Private,2024,30553015
+Apartments,Private,2023,128606376
+Apartments,Private,2022,145111506
+Apartments,Private,2021,113551345
+Apartments,Private,2020,87206866
+Apartments,Private,2019,94732144
+Apartments,Private,2018,94772254
+Apartments,Private,2017,82499911
+Apartments,Private,2016,91349900
+Apartments,Private,2015,82451511
+Apartments,Municipal,2017,9000
+Apartments,County,2024,387028
+Apartments,County,2023,2711908
+Apartments,County,2022,1977770
+Apartments,County,2021,1560824
+Apartments,County,2020,1635446
+Apartments,County,2019,1795807
+Apartments,County,2018,1849754
+Apartments,County,2017,2254047
+Apartments,County,2016,2027725
+Apartments,County,2015,1872094
+Apartments,State,2024,37749
+Apartments,State,2023,183230
+Apartments,State,2022,111268
+Apartments,State,2021,71211
+Apartments,State,2020,38793
+Apartments,State,2019,280838
+Apartments,State,2018,65064
+Apartments,State,2017,10290
+Apartments,State,2016,43838
+Apartments,State,2015,209479
+Apartments,Federal,2023,35837
+Apartments,Federal,2022,59400
+Apartments,Federal,2021,25034
+Apartments,Federal,2020,6275
+Apartments,Federal,2019,84596
+Apartments,Federal,2018,8725
+Apartments,Federal,2017,15889
+Apartments,Federal,2016,21409
+Apartments,Federal,2015,11048
+Hotels and Motels,Private,2024,3330590
+Hotels and Motels,Private,2023,10524895
+Hotels and Motels,Private,2022,12501386
+Hotels and Motels,Private,2021,7650606
+Hotels and Motels,Private,2020,7864294
+Hotels and Motels,Private,2019,17522563
+Hotels and Motels,Private,2018,17491091
+Hotels and Motels,Private,2017,15943501
+Hotels and Motels,Private,2016,17179325
+Hotels and Motels,Private,2015,13522507
+Hotels and Motels,County,2024,10389
+Hotels and Motels,County,2023,523712
+Hotels and Motels,County,2022,57984
+Hotels and Motels,County,2021,64754
+Hotels and Motels,County,2020,17427
+Hotels and Motels,County,2019,102378
+Hotels and Motels,County,2018,278708
+Hotels and Motels,County,2017,139263
+Hotels and Motels,County,2016,159027
+Hotels and Motels,County,2015,11352
+Hotels and Motels,State,2024,320
+Hotels and Motels,State,2023,266047
+Hotels and Motels,State,2022,42552
+Hotels and Motels,State,2021,93711
+Hotels and Motels,State,2020,33859
+Hotels and Motels,State,2019,113628
+Hotels and Motels,State,2018,96959
+Hotels and Motels,State,2017,25911
+Hotels and Motels,State,2016,42470
+Hotels and Motels,State,2015,90641
+Hotels and Motels,Federal,2023,541
+Hotels and Motels,Federal,2022,38959
+Hotels and Motels,Federal,2021,1400
+Hotels and Motels,Federal,2020,66593
+Hotels and Motels,Federal,2019,1215
+Hotels and Motels,Federal,2018,21276
+Hotels and Motels,Federal,2017,44356
+Hotels and Motels,Federal,2016,25758
+Hotels and Motels,Federal,2015,50947
+Dormitories,Private,2024,975798
+Dormitories,Private,2023,2576865
+Dormitories,Private,2022,2857528
+Dormitories,Private,2021,2043786
+Dormitories,Private,2020,1731021
+Dormitories,Private,2019,3126221
+Dormitories,Private,2018,2181657
+Dormitories,Private,2017,3979982
+Dormitories,Private,2016,2140154
+Dormitories,Private,2015,2821117
+Dormitories,County,2024,824643
+Dormitories,County,2023,398163
+Dormitories,County,2022,903747
+Dormitories,County,2021,431178
+Dormitories,County,2020,390988
+Dormitories,County,2019,864249
+Dormitories,County,2018,375004
+Dormitories,County,2017,268079
+Dormitories,County,2016,416564
+Dormitories,County,2015,468749
+Dormitories,State,2024,733357
+Dormitories,State,2023,1796391
+Dormitories,State,2022,1135923
+Dormitories,State,2021,1296394
+Dormitories,State,2020,1369966
+Dormitories,State,2019,1625628
+Dormitories,State,2018,2404643
+Dormitories,State,2017,2177317
+Dormitories,State,2016,1573621
+Dormitories,State,2015,2545687
+Dormitories,Federal,2024,9704
+Dormitories,Federal,2023,676936
+Dormitories,Federal,2022,348221
+Dormitories,Federal,2021,692528
+Dormitories,Federal,2020,348205
+Dormitories,Federal,2019,705091
+Dormitories,Federal,2018,531277
+Dormitories,Federal,2017,253915
+Dormitories,Federal,2016,321059
+Dormitories,Federal,2015,514497
